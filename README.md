@@ -1,4 +1,4 @@
-# Desafío 1 - Oracle-Aluta Latam
+# Desafío 1 - Oracle-Alura Latam
 Nuestro cliente, Juan, posee 4 tiendas actualmente y desea vender una para comenzar con otro emprendimiento. 
 Por esto, nos pide que lo ayudemos a analizar los datos de las ventas, rendimientos y reseñas de dichas tiendas, 
 para poder identificar el local menos eficiente y de esta manera poder tomar una decisión en base a nuestro análisis de los datos. 
